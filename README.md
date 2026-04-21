@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Im Khalid, a computer engineering student at Bucknell.
 <!--
 **Kha1id37/Kha1id37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
